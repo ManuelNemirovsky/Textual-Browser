@@ -16,7 +16,7 @@
 * [termcolor](https://pypi.python.org/pypi/termcolor)
 * [turtle](http://pythonturtle.org/)
 
-:exclamation: Make sure that you have installed the modules that the browser uses :exclamation:
+:exclamation: Make sure that you have installed the modules :exclamation:
 
 *Designed by Manuel Nemirovsky*
 
