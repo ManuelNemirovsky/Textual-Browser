@@ -1,6 +1,6 @@
 # Textual-Browser #
 
-## What Can He Do ##
+## What May He Do ##
 
 * Can find the next hop within the local network (gateway to the Internet)
 * Maintain local DNS memory to save redundant queries to the DNS server.
