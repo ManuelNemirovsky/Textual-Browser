@@ -16,8 +16,6 @@
 * [termcolor](https://pypi.python.org/pypi/termcolor)
 * [turtle](http://pythonturtle.org/)
 
-:exclamation: Make sure that you have installed the modules :exclamation:
-
 *Designed by Manuel Nemirovsky*
 
 _All rights reserved_
